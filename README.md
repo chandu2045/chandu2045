@@ -51,8 +51,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chandu2045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandu2045&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandu2045&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=chandu2045&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
