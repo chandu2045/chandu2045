@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Saichandu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%26%20AI%20Enthusiast&descSize=17&descAlignY=58" width="100%" alt="Header" />
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Saichandu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=58)
 
 <h2 align="center">👋 Hello, I'm Saichandu!</h2>
 
@@ -75,6 +73,4 @@
   <i>Keep Learning • Keep Exploring • Keep Growing 🚀</i>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" alt="Footer" />
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer)
